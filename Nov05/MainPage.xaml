@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Nov05.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   FontFamily="Times New Roman"
+    xmlns:Nov05="clr-namespace:Nov05"
+             
+    mc:Ignorable="d"
+    HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
+    
+    <Canvas x:Name="gameCanvas" Background="White" HorizontalAlignment="Center" VerticalAlignment="Center"
+            Width="800" Height="500" >
+        <Canvas.Clip>
+            <RectangleGeometry Rect="0,0,800, 500" />
+        </Canvas.Clip>
+
+        <MediaElement x:Name="backgroundMusic"   />
+        
+        <Image Name="MainMenu" 
+               VerticalAlignment="Center" HorizontalAlignment="Center"
+               Source="/MainMenu.png" />
+
+        <Button x:Name="btnStart" Cursor="Hand" Click="btnStart_Click" Canvas.Left="300" Canvas.Top="350" Width="100" Height="70" Content="Start" FontFamily="Comic Sans MS" FontSize="24" Background="Navy"></Button>
+        <Button x:Name="btnQuit" Cursor="Hand" Click="btnQuit_Click" Canvas.Left="425" Canvas.Top="350" Width="100" Height="70" Content="Quit" FontFamily="Comic Sans MS" FontSize="24" Background="Navy" />
+
+        <Image Name="theBackground" Visibility="Collapsed"
+               Canvas.Left="0" Canvas.Top="0" 
+               Source="/background.png" />
+
+        <Nov05:Ship x:Name="theShip"
+                    Canvas.Left="100" Canvas.Top="100"
+                    Height="45" Width="60">
+            <Image Source="/shark.png" />
+        </Nov05:Ship>
+
+        <!--<TextBlock x:Name="lblHits" Text="Remaining Hits : 12" Canvas.Top="300" Canvas.Left="100" FontSize="20" FontStretch="UltraCondensed" Visibility="Collapsed" Foreground="Red" />-->
+        <StackPanel x:Name="spLives" Canvas.Top="350" Canvas.Left="50" >
+            <ProgressBar x:Name="MyProgressBar" IsIndeterminate="False" Background="Black" Foreground="Red" 
+                 Visibility="Collapsed" Minimum="0" Maximum="12" Value="12" Width="400" Height="30"></ProgressBar>
+
+            <TextBlock x:Name="lblLives" Text="Remaining Lives : 3"  Margin="0,10,0,0" FontSize="20"  FontStretch="UltraCondensed" Foreground="Red" Visibility="Collapsed"/>
+        </StackPanel>
+        <TextBlock x:Name="lblGameOver" Text="Game Over!!" Canvas.Top="250" Canvas.Left="330" FontSize="34"  FontStretch="UltraCondensed" Foreground="Red" Visibility="Collapsed" />
+    </Canvas>
+</UserControl>

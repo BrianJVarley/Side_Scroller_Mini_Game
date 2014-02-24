@@ -1,0 +1,69 @@
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\Nov05.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\Nov05.pdb
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\AppManifest.xaml
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\Nov05.xap
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\Nov05TestPage.html
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\App.g.i.cs
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\MainPage.g.i.cs
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\Nov05.g.resources
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\Nov05.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\Nov05.pdb
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\obj\Debug\XapCacheFile.xml
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\dcostello\Documents\Visual Studio 2010\Projects\Nov05\Nov05\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\Nov05.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\Nov05.pdb
+E:\Apps C#\Nov05\Nov05\Bin\Debug\AppManifest.xaml
+E:\Apps C#\Nov05\Nov05\Bin\Debug\Nov05.xap
+E:\Apps C#\Nov05\Nov05\Bin\Debug\Nov05TestPage.html
+E:\Apps C#\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.xml
+E:\Apps C#\Nov05\Nov05\Bin\Debug\de\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\es\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\it\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\Apps C#\Nov05\Nov05\obj\Debug\ResolveAssemblyReference.cache
+E:\Apps C#\Nov05\Nov05\obj\Debug\App.g.i.cs
+E:\Apps C#\Nov05\Nov05\obj\Debug\MainPage.g.i.cs
+E:\Apps C#\Nov05\Nov05\obj\Debug\Nov05.g.resources
+E:\Apps C#\Nov05\Nov05\obj\Debug\Nov05.dll
+E:\Apps C#\Nov05\Nov05\obj\Debug\Nov05.pdb
+E:\Apps C#\Nov05\Nov05\obj\Debug\XapCacheFile.xml
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\Nov05.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\Nov05.pdb
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\AppManifest.xaml
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\Nov05.xap
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\Nov05TestPage.html
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\System.Xml.Serialization.xml
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\de\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\es\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\it\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\ResolveAssemblyReference.cache
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\App.g.i.cs
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\MainPage.g.i.cs
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\Nov05.g.resources
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\Nov05.dll
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\Nov05.pdb
+I:\Working\Nov05\Nov05\Nov05\obj\Debug\XapCacheFile.xml
